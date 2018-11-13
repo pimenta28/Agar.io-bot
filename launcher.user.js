@@ -18,7 +18,7 @@ SOFTWARE.*/
 // ==UserScript==
 // @name        AposLauncher
 // @namespace   AposLauncher
-// @include     http://agar.io/*
+// @include     https://www.chopcoin.io/*
 // @version     5.042
 // @grant       none
 // @author      http://www.twitch.tv/apostolique
